@@ -22,8 +22,9 @@ This is a simple React project that allows users to change the background color 
 ## Connect with Me
 
 - 🔗 LinkedIn: [mrravikumar](https://www.linkedin.com/in/mrravikumar)
-- 🌐 Website: [dsa2web.in](https://www.dsa2web.in)
-- 📘 Facebook: [dsa2web](https://www.facebook.com/dsa2web)
+- 🔗 Portfolio: [mrravikumar](https://www.mrravikumar.com)
+- 🌐 Website: [dsa2web.in](https://www.dsa2web.com)
+- 📘 Facebook Page: [dsa2web](https://www.facebook.com/dsa2web)
 - 📸 Instagram: [@dsa2web](https://www.instagram.com/dsa2web)
 - 🐦 Twitter: [@dsa2web](https://www.twitter.com/dsa2web)
 - 📩 LinkedIn Page: [dsa2web](https://www.linkedin.com/company/dsa2web)
