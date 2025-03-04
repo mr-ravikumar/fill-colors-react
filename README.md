@@ -20,7 +20,6 @@ This is a simple React project that allows users to change the background color 
 - Click the "Reset" button to remove the color.
 
 ## Connect with Me
-
 - 🔗 LinkedIn: [mrravikumar](https://www.linkedin.com/in/mrravikumar)
 - 🔗 Portfolio: [mrravikumar.com](https://www.mrravikumar.com)
 - 🌐 Website: [dsa2web.com](https://www.dsa2web.com)
@@ -28,5 +27,4 @@ This is a simple React project that allows users to change the background color 
 - 📸 Instagram: [@dsa2web](https://www.instagram.com/dsa2web)
 - 🐦 Twitter: [@dsa2web](https://www.twitter.com/dsa2web)
 - 📩 LinkedIn Page: [dsa2web](https://www.linkedin.com/company/dsa2web)
-- 📌 Pinterest: [dsa2web](https://www.pinterest.com/dsa2web)
 - 📢 Telegram: [t.me/dsa2web](https://t.me/dsa2web)
